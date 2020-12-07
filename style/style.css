@@ -45,12 +45,12 @@ a {
   box-sizing: border-box; }
 
 body {
-  background-color: black;
+  background-color: grey;
   max-width: 450px;
   max-height: 700px; }
 
 .container {
-  width: 449px;
+  width: 450px;
   height: 700px;
   background-color: rgba(220, 254, 255, 0.733); }
 
